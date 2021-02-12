@@ -1,8 +1,8 @@
 {
-  "receiptsSpot": {
+  "spot": {
     "success": true
   },
-  "receiptsNdf": {
+  "ndf": {
     "success": true
   }
 }
